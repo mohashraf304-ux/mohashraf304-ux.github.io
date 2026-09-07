@@ -1,6 +1,6 @@
 ownerdomain=mohashraf304-ux.github.io
 # AdMob Code
-google.com, pub-4808221712491512, DIRECT, f08c47fec0942fa0
+google.com, pub-4051704943729809, DIRECT, f08c47fec0942fa0
 
 # Unity Ads Codes
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
