@@ -1,6 +1,6 @@
 ownerdomain=mohashraf304-ux.github.io
 # AdMob Code
-google.com, pub-4051704943729809, DIRECT, f08c47fec0942fa0
+google.com, pub-9264675454547064, DIRECT, f08c47fec0942fa0
 
 chartboost.com, 6ac961b5d5df6531f4808495, DIRECT
 loopme.com, 22144, DIRECT, 6c8d5f95897a5a3b
