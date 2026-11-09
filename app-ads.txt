@@ -1,6 +1,6 @@
 ownerdomain=mohashraf304-ux.github.io
 # AdMob Code
-google.com, pub-8030691892927596, DIRECT, f08c47fec0942fa0
+google.com, pub-9153095842503113, DIRECT, f08c47fec0942fa0
 google.com, pub-5696929401802400, DIRECT, f08c47fec0942fa0
 
 #inmobi.com
